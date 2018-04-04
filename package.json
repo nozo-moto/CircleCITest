@@ -1,0 +1,19 @@
+{
+  "name": "circlecitest",
+  "version": "1.0.0",
+  "description": "#modifie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozomi0966/CircleCITest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nozomi0966/CircleCITest/issues"
+  },
+  "homepage": "https://github.com/nozomi0966/CircleCITest#readme"
+}
